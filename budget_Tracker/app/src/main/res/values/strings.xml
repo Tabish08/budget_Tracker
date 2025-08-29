@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">budget_Tracker</string>
+    <string name="add_expense">Add Expense</string>
+    <string name="budget_tracker">💰 Budget Tracker</string>
+</resources>
